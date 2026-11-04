@@ -39,20 +39,20 @@ try (var executor = Executors.newVirtualThreadPerTaskExecutor()) {
 
 ```mermaid
 flowchart TB
-  subgraph 虚拟线程（上百万个）
-    V1[V1 等 IO]
-    V2[V2 运行中]
-    V3[V3 运行中]
-    V4[V4 等 IO]
+  subgraph VT["虚拟线程：可以有上百万个"]
+    V1["V1 等 IO"]
+    V2["V2 运行中"]
+    V3["V3 运行中"]
+    V4["V4 等 IO"]
   end
-  subgraph 载体线程（= CPU 核数）
-    C1[载体线程 1]
-    C2[载体线程 2]
+  subgraph CT["载体线程：数量 = CPU 核数"]
+    C1["载体线程 1"]
+    C2["载体线程 2"]
   end
   V2 -->|挂载| C1
   V3 -->|挂载| C2
-  V1 -.卸载，栈存在堆上.-> H[(堆)]
-  V4 -.卸载.-> H
+  V1 -.->|"卸载，栈保存在堆上"| H[("堆")]
+  V4 -.->|卸载| H
 ```
 
 **pinning（钉住）**：在 JDK 21 里，虚拟线程在 `synchronized` 块内或调用本地方法时阻塞，无法卸载，载体线程也跟着被占住。如果大量虚拟线程这样阻塞，载体线程会被耗尽。JDK 24（JEP 491）解决了 `synchronized` 的问题；在 21 上，热点路径要把 `synchronized` 换成 `ReentrantLock`。可以用 `-Djdk.tracePinnedThreads=full` 检测。
