@@ -1,5 +1,7 @@
 # bagu-notes：八股知识库
 
+网页版：https://bingqin2.github.io/bagu-notes/
+
 按模块整理的 Java 后端八股，加上按公司索引的 2025–2026 年真题。网站用 VitePress 搭建，Markdown 和 Mermaid 图在 GitHub 上也能直接看。
 
 ## 本地运行

@@ -59,9 +59,9 @@ title: 近两年考什么（2025–2026）
 
 | 题目 | 出现情况 |
 |---|---|
-| [146. LRU 缓存](https://github.com/bingqin2/algo-notes/blob/main/docs/13-design/lc146.md)（含并发版、过期时间） | 最多，字节、美团、腾讯、阿里、小红书、小米都有 |
-| [链表系列](https://github.com/bingqin2/algo-notes/blob/main/docs/04-linked-list/index.md)：反转、K 个一组、重排、区间反转 | 美团尤其多 |
-| [198. 打家劫舍](https://github.com/bingqin2/algo-notes/blob/main/docs/11-dynamic-programming/lc198.md)、[200. 岛屿数量](https://github.com/bingqin2/algo-notes/blob/main/docs/09-graph/lc200.md) | 字节各 4 次 |
-| [3. 无重复字符的最长子串](https://github.com/bingqin2/algo-notes/blob/main/docs/02-sliding-window/lc3.md)、[179. 最大数](https://github.com/bingqin2/algo-notes/blob/main/docs/01-array-two-pointers/lc179.md) | 字节各 3 次 |
-| [Top K 系列](https://github.com/bingqin2/algo-notes/blob/main/docs/06-heap-topk/index.md) | 美团 3 次，字节有流式 Top K |
-| [手写组件](https://github.com/bingqin2/algo-notes/blob/main/docs/13-design/index.md)：限流器、线程池、交替打印、singleflight | 腾讯、阿里、京东、字节 |
+| [146. LRU 缓存](https://bingqin2.github.io/algo-notes/13-design/lc146)（含并发版、过期时间） | 最多，字节、美团、腾讯、阿里、小红书、小米都有 |
+| [链表系列](https://bingqin2.github.io/algo-notes/04-linked-list/)：反转、K 个一组、重排、区间反转 | 美团尤其多 |
+| [198. 打家劫舍](https://bingqin2.github.io/algo-notes/11-dynamic-programming/lc198)、[200. 岛屿数量](https://bingqin2.github.io/algo-notes/09-graph/lc200) | 字节各 4 次 |
+| [3. 无重复字符的最长子串](https://bingqin2.github.io/algo-notes/02-sliding-window/lc3)、[179. 最大数](https://bingqin2.github.io/algo-notes/01-array-two-pointers/lc179) | 字节各 3 次 |
+| [Top K 系列](https://bingqin2.github.io/algo-notes/06-heap-topk/) | 美团 3 次，字节有流式 Top K |
+| [手写组件](https://bingqin2.github.io/algo-notes/13-design/)：限流器、线程池、交替打印、singleflight | 腾讯、阿里、京东、字节 |

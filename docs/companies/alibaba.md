@@ -38,8 +38,8 @@
 
 | 题目 | 次数 |
 |---|---|
-| [146. LRU](https://github.com/bingqin2/algo-notes/blob/main/docs/13-design/lc146.md) | 1 |
-| [线程安全的滑动窗口限流器](https://github.com/bingqin2/algo-notes/blob/main/docs/13-design/rate-limiter.md) | 1 |
-| [多线程顺序打印](https://github.com/bingqin2/algo-notes/blob/main/docs/13-design/producer-consumer.md) | 1 |
-| [39. 组合总和](https://github.com/bingqin2/algo-notes/blob/main/docs/10-backtracking/lc39.md) | 1 |
-| 笔试：[236. 树上 LCA](https://github.com/bingqin2/algo-notes/blob/main/docs/08-binary-tree/lc236.md)、[括号序列修复](https://github.com/bingqin2/algo-notes/blob/main/docs/05-stack-monotonic/lc20.md)、最大公约数 | 各 1 |
+| [146. LRU](https://bingqin2.github.io/algo-notes/13-design/lc146) | 1 |
+| [线程安全的滑动窗口限流器](https://bingqin2.github.io/algo-notes/13-design/rate-limiter) | 1 |
+| [多线程顺序打印](https://bingqin2.github.io/algo-notes/13-design/producer-consumer) | 1 |
+| [39. 组合总和](https://bingqin2.github.io/algo-notes/10-backtracking/lc39) | 1 |
+| 笔试：[236. 树上 LCA](https://bingqin2.github.io/algo-notes/08-binary-tree/lc236)、[括号序列修复](https://bingqin2.github.io/algo-notes/05-stack-monotonic/lc20)、最大公约数 | 各 1 |

@@ -46,14 +46,14 @@
 
 | 题目 | 次数 |
 |---|---|
-| [143. 重排链表 / 链表交错重排](https://github.com/bingqin2/algo-notes/blob/main/docs/04-linked-list/lc143.md) | 3 |
-| [25. K 个一组翻转链表](https://github.com/bingqin2/algo-notes/blob/main/docs/04-linked-list/lc25.md) | 2 |
-| [146. LRU（追问泛型、过期时间）](https://github.com/bingqin2/algo-notes/blob/main/docs/13-design/lc146.md) | 2 |
-| [88. 合并有序数组](https://github.com/bingqin2/algo-notes/blob/main/docs/01-array-two-pointers/lc88.md) | 2 |
-| [347. 前 K 高频元素 / 692. 前 K 高频单词](https://github.com/bingqin2/algo-notes/blob/main/docs/06-heap-topk/lc347.md) | 3 |
-| [92. 区间反转链表](https://github.com/bingqin2/algo-notes/blob/main/docs/04-linked-list/lc92.md)、[206. 反转链表](https://github.com/bingqin2/algo-notes/blob/main/docs/04-linked-list/lc206.md)、[19. 倒数第 N 个](https://github.com/bingqin2/algo-notes/blob/main/docs/04-linked-list/lc19.md) | 各 1 |
-| [11. 盛最多水的容器](https://github.com/bingqin2/algo-notes/blob/main/docs/01-array-two-pointers/lc11.md)、[54. 螺旋矩阵](https://github.com/bingqin2/algo-notes/blob/main/docs/01-array-two-pointers/lc54.md) | 各 1 |
-| [322. 零钱兑换](https://github.com/bingqin2/algo-notes/blob/main/docs/11-dynamic-programming/lc322.md)、[394. 字符串解码](https://github.com/bingqin2/algo-notes/blob/main/docs/05-stack-monotonic/lc394.md) | 各 1 |
-| [525. 01 数组最长连续子数组](https://github.com/bingqin2/algo-notes/blob/main/docs/07-hash-prefix-sum/lc525.md)、[滑动窗口](https://github.com/bingqin2/algo-notes/blob/main/docs/02-sliding-window/index.md) | 各 1 |
-| [快排](https://github.com/bingqin2/algo-notes/blob/main/docs/00-sorting/quick-sort.md) | 1 |
+| [143. 重排链表 / 链表交错重排](https://bingqin2.github.io/algo-notes/04-linked-list/lc143) | 3 |
+| [25. K 个一组翻转链表](https://bingqin2.github.io/algo-notes/04-linked-list/lc25) | 2 |
+| [146. LRU（追问泛型、过期时间）](https://bingqin2.github.io/algo-notes/13-design/lc146) | 2 |
+| [88. 合并有序数组](https://bingqin2.github.io/algo-notes/01-array-two-pointers/lc88) | 2 |
+| [347. 前 K 高频元素 / 692. 前 K 高频单词](https://bingqin2.github.io/algo-notes/06-heap-topk/lc347) | 3 |
+| [92. 区间反转链表](https://bingqin2.github.io/algo-notes/04-linked-list/lc92)、[206. 反转链表](https://bingqin2.github.io/algo-notes/04-linked-list/lc206)、[19. 倒数第 N 个](https://bingqin2.github.io/algo-notes/04-linked-list/lc19) | 各 1 |
+| [11. 盛最多水的容器](https://bingqin2.github.io/algo-notes/01-array-two-pointers/lc11)、[54. 螺旋矩阵](https://bingqin2.github.io/algo-notes/01-array-two-pointers/lc54) | 各 1 |
+| [322. 零钱兑换](https://bingqin2.github.io/algo-notes/11-dynamic-programming/lc322)、[394. 字符串解码](https://bingqin2.github.io/algo-notes/05-stack-monotonic/lc394) | 各 1 |
+| [525. 01 数组最长连续子数组](https://bingqin2.github.io/algo-notes/07-hash-prefix-sum/lc525)、[滑动窗口](https://bingqin2.github.io/algo-notes/02-sliding-window/) | 各 1 |
+| [快排](https://bingqin2.github.io/algo-notes/00-sorting/quick-sort) | 1 |
 | SQL：按课程平均分排序 | 1 |

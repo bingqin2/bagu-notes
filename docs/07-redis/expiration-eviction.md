@@ -52,7 +52,7 @@ flowchart TD
 ## 追问链
 
 - **LRU 和 LFU 的区别？** LRU 看「最近有没有用」，一次全量扫描就可能把真正的热点挤掉；LFU 看「用得多不多」，更能保住长期热点。
-- **Redis 的 LRU 和手写 LRU 有什么区别？** 手写的是哈希表 + 双向链表的精确 LRU，见[算法库 146](https://github.com/bingqin2/algo-notes/blob/main/docs/13-design/lc146.md)。Redis 用抽样近似，省掉了每个 key 两个指针的内存。
+- **Redis 的 LRU 和手写 LRU 有什么区别？** 手写的是哈希表 + 双向链表的精确 LRU，见[算法库 146](https://bingqin2.github.io/algo-notes/13-design/lc146)。Redis 用抽样近似，省掉了每个 key 两个指针的内存。
 - **主从下过期 key 怎么处理？** 从节点不会主动删除过期 key，由主节点删除后同步一条 `DEL` 给从节点。3.2 起从节点读到过期 key 时会返回空，不会返回过期数据。
 - **为什么大量 key 同时过期会导致卡顿？** 定期删除时过期比例一直超过 25%，会连续循环直到 25 毫秒上限，主线程被占用。所以过期时间要加随机值，见[缓存雪崩](./cache-problems)。
 

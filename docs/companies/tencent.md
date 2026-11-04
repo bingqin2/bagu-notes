@@ -43,19 +43,19 @@
 
 | 题目 | 次数 |
 |---|---|
-| [字符串压缩与解压 / 394. 字符串解码](https://github.com/bingqin2/algo-notes/blob/main/docs/05-stack-monotonic/lc394.md) | 2 |
-| [交替打印奇偶](https://github.com/bingqin2/algo-notes/blob/main/docs/13-design/producer-consumer.md) | 2 |
-| [6. Z 字形](https://github.com/bingqin2/algo-notes/blob/main/docs/01-array-two-pointers/lc6.md) | 2 |
-| [50. 快速幂取模](https://github.com/bingqin2/algo-notes/blob/main/docs/14-string-math/lc50.md) | 2 |
-| [20. 有效括号](https://github.com/bingqin2/algo-notes/blob/main/docs/05-stack-monotonic/lc20.md) | 2 |
-| [IP 转整数 / IP+端口打包](https://github.com/bingqin2/algo-notes/blob/main/docs/14-string-math/ip-to-int.md) | 2 |
-| [146. LRU（含分布式缓存）](https://github.com/bingqin2/algo-notes/blob/main/docs/13-design/lc146.md) | 3 |
-| [限流器](https://github.com/bingqin2/algo-notes/blob/main/docs/13-design/rate-limiter.md) | 1 |
-| [92. 区间反转](https://github.com/bingqin2/algo-notes/blob/main/docs/04-linked-list/lc92.md)、[141. 判环](https://github.com/bingqin2/algo-notes/blob/main/docs/04-linked-list/lc141.md) | 各 1 |
-| [23. N 个升序数组合并](https://github.com/bingqin2/algo-notes/blob/main/docs/04-linked-list/lc23.md) | 1 |
-| [124. 二叉树最大路径和](https://github.com/bingqin2/algo-notes/blob/main/docs/08-binary-tree/lc124.md) | 1 |
-| [207. 课程表（输出全部拓扑序）](https://github.com/bingqin2/algo-notes/blob/main/docs/09-graph/lc207.md) | 1 |
-| [239. 滑动窗口最大值](https://github.com/bingqin2/algo-notes/blob/main/docs/02-sliding-window/lc239.md)、[739. 每日温度](https://github.com/bingqin2/algo-notes/blob/main/docs/05-stack-monotonic/lc739.md)、[56. 合并区间](https://github.com/bingqin2/algo-notes/blob/main/docs/12-greedy-interval/lc56.md) | 各 1 |
-| [415. 字符串相加 / 43. 大数乘法](https://github.com/bingqin2/algo-notes/blob/main/docs/14-string-math/lc415.md) | 2 |
-| [原地归并排序](https://github.com/bingqin2/algo-notes/blob/main/docs/00-sorting/merge-sort.md)、[快排与堆排序](https://github.com/bingqin2/algo-notes/blob/main/docs/00-sorting/quick-sort.md) | 各 1 |
-| [704. 二分边界](https://github.com/bingqin2/algo-notes/blob/main/docs/03-binary-search/lc704.md) | 1 |
+| [字符串压缩与解压 / 394. 字符串解码](https://bingqin2.github.io/algo-notes/05-stack-monotonic/lc394) | 2 |
+| [交替打印奇偶](https://bingqin2.github.io/algo-notes/13-design/producer-consumer) | 2 |
+| [6. Z 字形](https://bingqin2.github.io/algo-notes/01-array-two-pointers/lc6) | 2 |
+| [50. 快速幂取模](https://bingqin2.github.io/algo-notes/14-string-math/lc50) | 2 |
+| [20. 有效括号](https://bingqin2.github.io/algo-notes/05-stack-monotonic/lc20) | 2 |
+| [IP 转整数 / IP+端口打包](https://bingqin2.github.io/algo-notes/14-string-math/ip-to-int) | 2 |
+| [146. LRU（含分布式缓存）](https://bingqin2.github.io/algo-notes/13-design/lc146) | 3 |
+| [限流器](https://bingqin2.github.io/algo-notes/13-design/rate-limiter) | 1 |
+| [92. 区间反转](https://bingqin2.github.io/algo-notes/04-linked-list/lc92)、[141. 判环](https://bingqin2.github.io/algo-notes/04-linked-list/lc141) | 各 1 |
+| [23. N 个升序数组合并](https://bingqin2.github.io/algo-notes/04-linked-list/lc23) | 1 |
+| [124. 二叉树最大路径和](https://bingqin2.github.io/algo-notes/08-binary-tree/lc124) | 1 |
+| [207. 课程表（输出全部拓扑序）](https://bingqin2.github.io/algo-notes/09-graph/lc207) | 1 |
+| [239. 滑动窗口最大值](https://bingqin2.github.io/algo-notes/02-sliding-window/lc239)、[739. 每日温度](https://bingqin2.github.io/algo-notes/05-stack-monotonic/lc739)、[56. 合并区间](https://bingqin2.github.io/algo-notes/12-greedy-interval/lc56) | 各 1 |
+| [415. 字符串相加 / 43. 大数乘法](https://bingqin2.github.io/algo-notes/14-string-math/lc415) | 2 |
+| [原地归并排序](https://bingqin2.github.io/algo-notes/00-sorting/merge-sort)、[快排与堆排序](https://bingqin2.github.io/algo-notes/00-sorting/quick-sort) | 各 1 |
+| [704. 二分边界](https://bingqin2.github.io/algo-notes/03-binary-search/lc704) | 1 |
